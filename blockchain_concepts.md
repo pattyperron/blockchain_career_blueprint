@@ -9,37 +9,33 @@
 The following terminiology is common across the blockchain ecosystem and are important to understand as a starting point. 
 A high-level understanding should be sufficient to get started, but each term has attached resources that can be consulted if the user believes a deeper understanding is needed.
 
-### Distributed Ledger Technology (DLT)
-Distirbuted Ledger Technlogy is an umbrella term for "technological infrastructure and protocols that allows simultaneous access, validation, and record updating in an immutable manner across a network that's spread across multiple entities or locations." Though often used interchangeably, Blockchain is just one implementaiton of DLT.
-
-Further Reading:
-	- https://marcopolonetwork.com/articles/distributed-ledger-technology/
-
 ### Bitcoin
 Bitcoin is the first real-world application of blockchain technology, implemented in the form of a currency. It was introduced by a pseudonomous founder, Saitoshi Nakamoto, in a 2008 white paper that introduced blockchain technology to the world. While Blockchain is not Bitcoin, but Bitcoin is an example of a blockchain application.
 
+[Further Reading](https://www.investopedia.com/terms/b/bitcoin.asp)
+
 ### Ethereum
-Ethereum is a technology and a cryptocurrency.
+Ethereum is a technology and a cryptocurrency. TODO
 ERC20 token.
 
-Further Reading:
-- Whitepaper
-- Reading.
+[Further Reading](https://cointelegraph.com/ethereum-for-beginners/what-is-ethereum-a-beginners-guide-to-eth-cryptocurrency)
 
-Further Reading: 
+### Distributed Ledger Technology (DLT)
+Distirbuted Ledger Technlogy is an umbrella term for "technological infrastructure and protocols that allows simultaneous access, validation, and record updating in an immutable manner across a network that's spread across multiple entities or locations." Though often used interchangeably, Blockchain is just one implementaiton of DLT.
 
-- [Investopedia: What is Bitcoin?](https://www.investopedia.com/terms/b/bitcoin.asp)
-- [Nakamoto, S. and Bitcoin, A., 2008. A peer-to-peer electronic cash system. Bitcoin.–URL: https://bitcoin. org/bitcoin. pdf, 4.](https://bitcoin.org/bitcoin.pdf)
+[Further Reading](https://marcopolonetwork.com/articles/distributed-ledger-technology)
 
-### Openness (Permissioned, permissionless)
+### Openness
 
-Bitcoin is not private. 
+The data stored in a blokchain is distributed and immutable, but depending on the configuration of the system that data may not be accessible to all parties. A permissionless blokchain is one where all data is publically accessible. An example of such a blockchain is Bitcoin, where the amounts of bitcoin associated with all adresses is publically accessible (but who owns such address is not). A permissioned blockchain is one where only certain participants are allowed to access the stored information. This is useful when blockchain is used to store confidential information in an industry. Hyperledger Fabric is an example of a blockchain solution that enable permissions.
 
-Further Reading: TODO
+[Further Reading](TODO)
 
 ### Smart Contract
 
 Smart contracts are a key part of the value proposition provided by blockchain technology. They are "programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary’s involvement or time loss. They can also automate a workflow, triggering the next action when conditions are met" ([Smart Contracts Defined, 2022](https://www.ibm.com/topics/smart-contracts)). A smart contract is a simple program
+
+[Further Reading](https://www.ibm.com/topics/smart-contracts)
 
 ### Cryptocurrency
 
@@ -49,31 +45,27 @@ Wallet
 A wallet stores an address that can receive cryptocurrency. There are various types of wallets such as software wallets (e.g. Metamask) or hardware wallets An important distinction is that a wallet does not store cryptocurrency in itself, but it stores the private keys that allow access and transfering of that cryptocurrency stored on the blockchain.
 Further Reading: TODO
 
+
+[Further Reading](TODO)
+
 ### Oracles
 
 In blockchain, oracles are "third-party services that provide smart contracts with external information. They serve as bridges between blockchains and the outside world" ([Blockchain Oracles Explained, 2022](https://academy.binance.com/en/articles/blockchain-oracles-explained))
 
-Further Reading: https://academy.binance.com/en/articles/blockchain-oracles-explained
+[Further Reading](https://academy.binance.com/en/articles/blockchain-oracles-explained)
 
 ### Distributed Autonomous Organization (DAO)
 
 A distributed autonomous organization is a new form of an organization or entity where "the
 management and operational rules are typically encoded on blockchain in the form of smart contracts, and can autonomously operate without centralized control or third-party intervention" It is effectively a self-governing entity that interact with various other components according to a predefined set of rules. These rules can also be changed by members of the organizations by voting. 
 
-Further Reading:
-
-- https://www.forbes.com/sites/cathyhackl/2021/06/01/what-are-daos-and-why-you-should-pay-attention/?sh=4b7402287305
-- My DAO paper
+[Further Reading](https://www.forbes.com/sites/cathyhackl/2021/06/01/what-are-daos-and-why-you-should-pay-attention/?sh=4b7402287305)
 
 ### Non-Fungible Tokens (NFTs)
 
-- A digital asset stored on the blockchain that represents ownership of a specific item such as art, music, ticketing, memberships, or property rights. This property can represent ownership of both digital or real-world items.
-- An NFT is 
-- Can interact with smart contracts to integrate fine-grained logic when interacting with it, e.g. Sending a portion of every resale of the NFT back to the creator.
-- Can represent scarcity in digital from, which is novel considering most digital assets can often be copied without limitation.
+A non-fungible token is a  digital asset stored on the blockchain that represents ownership of a specific item such as art, music, ticketing, memberships, or property rights. This property can represent ownership of both digital or real-world items. It can interact with smart contracts to integrate fine-grained logic when interacting with it, e.g. Sending a portion of every resale of the NFT back to the creator. It represents scarcity in digital from, which is novel considering most digital assets can often be copied without limitation.
 
-Further Reading:
-https://www.forbes.com/advisor/investing/nft-non-fungible-token/
+[Further Reading](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
 
 ### Interoperability
 
@@ -82,7 +74,7 @@ A sidechain is a separate blockchain which runs in parallel to Ethereum Mainnet 
 
 Further Reading:
 
-- https://www.bitcoin.com/get-started/what-are-sidechains/
+[Further Reading](https://www.bitcoin.com/get-started/what-are-sidechains/)
 - My interoperability paper
 
 ----

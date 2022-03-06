@@ -30,19 +30,19 @@ According to ["How to start a career in Blockchain"](https://academic.oup.com/it
 
 The first step to taking advantage of blockchain tecnology is to identify a valid use case. Business roles typically focus on identifying valid value propositions built upon blockchain, and can therefore come from diverse variety of industry backgrounds. There are many opportunities available to individuals "with deep industry knowledge, who understand end-to-end business processes and have an eye for identifying inefficiencies" ([Lucas, 2020](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext)). 
 
-Potential careers in this space include Business Analysts, Entrepreneur, and Researcher.
+Potential careers in this space include *Business Analysts*, *Entrepreneur*, and *Researcher*.
 
 ### Technical Roles: *Focus on how to build a blockchain system*
 
-The people in technical roles are those that build, test, and maintain the blockchain system after release. Most available positions in present organizations are in this category. A blockchain application is often very similar to a typical web application, so many techincal roles are available for practionners with web development experience. In addition to building these decentralized web applications, technical roles are also responsible for programming smart contracts in languages.
+The people in technical roles are those that build, test, and maintain the blockchain system after release. Most available positions in present organizations are in this category. A blockchain application is often built with typical web application as a foundation, so many techincal roles are available for practionners with web development experience. In addition to building these decentralized web applications, technical roles are also responsible for programming smart contracts in languages.
 
-Potential careers in this space include Distributed Application(DApp) Developer, Smart Contract Auditor, and DevOps Engineer.
+Potential careers in this space include *Distributed Application(DApp) Developer*, *Smart Contract Auditor*, and *DevOps Engineer*.
 
 ### Architecture Roles: *Focus on integrating the technical and non-technical components of blockchain system*
 
 Architecture roles are a collection of roles sitting in between technical and buinesss that "allow a blockchain solution to provide utility for an organisation" ([Lucas, 2020](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext)). Practioners in this space must balance an understanding of intricate implmentation details along with big-picture implications of how the product is designed. 
 
-Potential careers in this space include System Architect and Product Manager.
+Potential careers in this space include *System Architect* and *Product Manager*.
 
 ## What role are you?
 
@@ -65,7 +65,7 @@ Of the positions that were listed, most were technical roles. The distribution i
 
 ## Job Responsibilities
 
-The following section describes the key ideas derived from an analysis of 253 statements of responsibility from 42 job postings:
+The following section describes the key ideas derived from an analysis of 253 statements of responsibility from 42 job postings.
 
 |Responsibility|Business Role|Architecture Role|Technical Role
 |--------------|-------------|-----------------|--------------|
@@ -104,6 +104,8 @@ The following section describes the key ideas derived from an analysis of 253 st
 |Understand  |X|X|X|
 
 ## Job Requirements
+
+The following section describes the key ideas derived from an analysis of 317 statements of responsibility from 42 job postings.
 
 |Activity|Business Role|Architecture Role|Technical Role|
 |--------|-------------|-----------------|--------------|

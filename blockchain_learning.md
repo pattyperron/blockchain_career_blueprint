@@ -20,13 +20,13 @@ A free 2-hour video providing a high-level overview of how Blockchain works and 
 
 A free course provided by Harvard that gives business professionals exposure to various concepts in computer science. Though this course does not cover Blockchain, it can help provide a solid technical foundation that will make learning about blockchain much easier and may help a practinoers become more technical across other parts of their career. Participants can also pay a fee to get a verified certificate upon completing the course that they can put on their resume. 
 
-*Recommended to: Business professionals who wish to increase their understanding of computer technology as a whole.*
+*Recommended to: Individuals who wish to increase their understanding of computer technology as a whole.*
 
 ### [INSE 6630: Bitcoin & Blockchain Technology](https://users.encs.concordia.ca/~clark/courses/2201-6630/index.html)
 
-A free university course provided by [Prof. Jeremy Clark](https://users.encs.concordia.ca/~clark/) from Concordia university. Provides a detailed explanation of the mechanisms technologies like Bitcoin and Blockain are built upon, and a high-level overview of 
+A free university course provided by [Prof. Jeremy Clark](https://users.encs.concordia.ca/~clark/) from Concordia university. Provides a detailed explanation of the mechanisms technologies like Bitcoin and Ethereum are built upon. 
 
-*Recommended to: Technical and non-technical practioners looking for a strong technical understanding of how Bitcoin and Ethereum work.*
+*Recommended to: Technical and non-technical individuals looking for a strong technical understanding of how Bitcoin and Ethereum work.*
 
 ### [Hyperledger Fabric Training Courses](https://www.hyperledger.org/learn/training)
 
@@ -53,12 +53,11 @@ https://www.udemy.com/
 https://www.codecademy.com/
 
 
-
 ## Literature
 
-[Bitcoin Whitepaper]()
+[Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
-[Ethereum Whitepaper]()
+[Ethereum Whitepaper](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_White_Paper_-_Buterin_2014.pdf)
 
 ## Books
 
