@@ -16,7 +16,7 @@ Bitcoin is the first real-world application of blockchain technology, implemente
 
 ### Ethereum
 Ethereum is a technology and a cryptocurrency. TODO
-ERC20 token.
+ERC20 token. TODO
 
 [Further Reading](https://cointelegraph.com/ethereum-for-beginners/what-is-ethereum-a-beginners-guide-to-eth-cryptocurrency)
 
@@ -69,13 +69,12 @@ A non-fungible token is a  digital asset stored on the blockchain that represent
 
 ### Interoperability
 
-Side chain
-A sidechain is a separate blockchain which runs in parallel to Ethereum Mainnet and operates independently. These two chains work together often to help with scale. TODO
+A sidechain is a separate blockchain which runs in parallel to Ethereum Mainnet and operates independently. These two chains work together often to help with scale. TODO Side chain
 
 Further Reading:
 
 [Further Reading](https://www.bitcoin.com/get-started/what-are-sidechains/)
-- My interoperability paper
+- TODO the paper I read on interoperability
 
 ----
 

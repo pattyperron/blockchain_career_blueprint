@@ -19,10 +19,10 @@ Blockchain is a novel technology defined as “a shared, immutable ledger that 
 > If the other accountant agrees, everyone updates their file… This concept is enabled by "Blockchain" technology.” 
 > ([Blockchain explained... in under 100 words, 2022](https://www2.deloitte.com/ch/en/pages/strategy-operations/articles/blockchain-explained.html))
 
-### [Video: Blockchain Explained in 7 minutes](https://www.youtube.com/watch?v=yubzJw0uiE4)
+#### [Video: Blockchain Explained in 7 minutes](https://www.youtube.com/watch?v=yubzJw0uiE4)
 
 ## What can Blockchain do?
-- Serves as a trusted authority powered by a technology rather than a third-party intermediary.
+- Serves as a trusted authority powered by technology instead of a third-party intermediary.
 - Provides "immediate, shared, and completely transparent information stored on an immutable ledger that can be accessed only by permissioned network members." [(What is Blockchain Technology?, 2022)](https://www.ibm.com/topics/what-is-blockchain)
 - Stores "all details of a transaction end to end, giving greater confidence, as well as new efficiencies and opportunities.” ([What is Blockchain Technology?, 2022](https://www.ibm.com/topics/what-is-blockchain))
 

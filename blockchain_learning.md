@@ -12,45 +12,44 @@
 
 A free 2-hour video providing a high-level overview of how Blockchain works and how it is applied.
 
-*Recommended to: Practioners wishing to commit a few hours to gaining a better understanding of the technology without making a large commitment.*
+**Recommended to: Practitioners wishing to commit a few hours to gain a better understanding of the technology without making a large commitment.**
 
 ## Courses 
 
 ### [CS50: Computer Science for Business Professionals](https://pll.harvard.edu/course/cs50s-computer-science-business-professionals?delta=0)
 
-A free course provided by Harvard that gives business professionals exposure to various concepts in computer science. Though this course does not cover Blockchain, it can help provide a solid technical foundation that will make learning about blockchain much easier and may help a practinoers become more technical across other parts of their career. Participants can also pay a fee to get a verified certificate upon completing the course that they can put on their resume. 
+A free online course (provided by Harvard University) that gives business professionals exposure to various concepts in computer science. Though this course does not cover Blockchain, it can help provide a solid technical foundation that will make learning about blockchain much easier and may help practitioners become more technical across other parts of their careers. Participants can also pay a fee to get a verified certificate upon completing the course that they can put on their resume. 
 
-*Recommended to: Individuals who wish to increase their understanding of computer technology as a whole.*
+**Recommended to: Individuals who wish to increase their understanding of computer technology as a whole.**
 
 ### [INSE 6630: Bitcoin & Blockchain Technology](https://users.encs.concordia.ca/~clark/courses/2201-6630/index.html)
 
-A free university course provided by [Prof. Jeremy Clark](https://users.encs.concordia.ca/~clark/) from Concordia university. Provides a detailed explanation of the mechanisms technologies like Bitcoin and Ethereum are built upon. 
+A free online course provided by [Prof. Jeremy Clark](https://users.encs.concordia.ca/~clark/) from Concordia University. Provides a detailed explanation of the mechanisms technologies like Bitcoin and Ethereum are built upon. 
 
-*Recommended to: Technical and non-technical individuals looking for a strong technical understanding of how Bitcoin and Ethereum work.*
+**Recommended to: Technical and non-technical individuals looking for a strong technical understanding of how Bitcoin and Ethereum work.**
 
 ### [Hyperledger Fabric Training Courses](https://www.hyperledger.org/learn/training)
 
-A collection of free classes to help develop applications using the Hyperledger Fabric Blockchain. Includes modules for both business analysts and software developers looking into working with hyperledger in their products. Participants can also pay a fee to get a verified certificate upon completing the course that they can put on their resume. 
+A collection of free classes to help develop applications using the Hyperledger Fabric Blockchain. Includes modules for both business analysts and software developers looking into working with Hyperledger in their products. Participants can also pay a fee to get a verified certificate upon completing the course that they can put on their resume. 
 
-*Recommended to: Practioners wishing to learn how to develop their own blockchain applications.*
+**Recommended to: Practitioners wishing to learn how to develop their own blockchain applications using a popular open-source Blockchain framework.**
 
 ### [Ethereum and Solidity: The Complete Developers Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 
 A 20+ hour online course designed to teach developers how to build their own distributed applications on Ethereum from scratch.
 
-*Recommended to: Practioners with programming experience interested in learning how to program their own blockchain applications and smart contracts.*
+**Recommended to: Practitioners with programming experience interested in learning how to program their own blockchain applications and smart contracts.**
 
 ## Software Development Skills
-For a list of recommended skills to learn, refer to the [**Blockchain Careers**](blockchain_careers.md) section. 
 
-Most of the tools and laguages listed there are open-source and therfore free. 
+For a list of recommended tools and programming languages to learn, refer to the [**Blockchain Careers**](blockchain_careers.md) section. 
 
-A few examples:
-https://docs.soliditylang.org/en/v0.8.12/
+Most of tools listed in that section open-source and therfore free. There are many online resources and youtube videos to get started.
 
 The following are excellent places to learn programming:
-https://www.udemy.com/
-https://www.codecademy.com/
+
+- [Udemy](https://www.udemy.com/)
+- [Codecademy](https://www.codecademy.com/)
 
 
 ## Literature
@@ -60,6 +59,8 @@ https://www.codecademy.com/
 [Ethereum Whitepaper](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_White_Paper_-_Buterin_2014.pdf)
 
 ## Books
+
+The following books are recommended to those who would like a better understanding of the how bitcoin and cryptocurrency technologies are affecting the world.
 
 - ["Bitcoin and Cryptocurrency Technolgies: A Comprehensive Introduction" by Arvin Narayanan](https://www.amazon.ca/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696)
 
