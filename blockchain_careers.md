@@ -7,13 +7,13 @@
 
 # Blockchain Careers
 
-Blockchain, like the internet, is just a new form of technology. While many jobs todary work directly on providing and maintaining web infrastructure, there are far more careers today that use the internet as a tool to do meaningful work in other industries. Therefore, practitioners should not only be aware of not curren career opportunities but also think about how they could create opportunities in other fields as the adoption of the technology increases.
+Blockchain, like the internet, is just a new form of technology. While many jobs today work directly on providing and maintaining web infrastructure, there are far more careers today that use the internet as a tool to do meaningful work in other industries. Therefore, practitioners should not only be aware of not current career opportunities but also think about how they could create opportunities in other fields as the adoption of the technology increases.
 
 ### Why pursue a career working with blockchain?
 - Help develop applications that can conduct widespread societal change using revolutionary technology.
 - Work in a rapidly evolving space that allows for continuous learning.
 - Solve challenging problems with overlapping implications in the fields of finance, computer science, ethics, law, and public policy.
-- In demand and often higher paying than other jobs in the field of technology ([Lucas, 2020](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext))
+- In demand and often higher-paying than other jobs in the field of technology ([Lucas, 2020](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext))
 - Many remote and/or cross-border opportunities
 
 ### Why NOT pursue a career working with blockchain?
@@ -34,19 +34,19 @@ Potential careers in this space include *Business Analyst*, *Entrepreneur*, and 
 
 ### Technical Roles: *Focus on how to build a blockchain system*
 
-The people in technical roles are those that build, test, and maintain the blockchain system after release. Most available positions in present organizations are in this category. A blockchain application is often built upon a typical web application, meaning that many technical roles are available for practioners with web development experience. In addition to building these decentralized web applications, technical roles are also responsible for programming smart contracts in languages.
+The people in technical roles are those that build, test, and maintain the blockchain system after release. Most available positions in present organizations are in this category. A blockchain application is often built upon a typical web application, meaning that many technical roles are available for practitioners with web development experience. In addition to building these decentralized web applications, technical roles are also responsible for programming smart contracts in languages.
 
 Potential careers in this space include *Distributed Application(DApp) Developer*, *Smart Contract Auditor*, and *DevOps Engineer*.
 
 ### Architecture Roles: *Focus on integrating the technical and non-technical components of the blockchain system*
 
-Architecture roles are a collection of roles sitting in between technical and buiness that "allow a blockchain solution to provide utility for an organisation" ([Lucas, 2020](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext)). Practitioners in this space must balance an understanding of intricate implementation details along with big-picture implications of how the product is designed. 
+Architecture roles are a collection of roles sitting in between technical and business that "allow a blockchain solution to provide utility for an organisation" ([Lucas, 2020](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext)). Practitioners in this space must balance an understanding of intricate implementation details along with big-picture implications of how the product is designed. 
 
 Potential careers in this space include *System Architect* and *Product Manager*.
 
 ## What role is right for you?
 
-Users of this guide are encouraged to assess their backgrounds and ambitions to figure out which sort of role appeals to them. Practioners in each of the categories above should be ready to get technical, but a high-level understanding of the building blocks of blockchain technology is preferable to specializing in the details too soon, especially considering how quickly the technology can change.
+Users of this guide are encouraged to assess their backgrounds and ambitions to figure out which sort of role appeals to them. Practitioners in each of the categories above should be ready to get technical, but achieving a high level understanding of the building blocks of blockchain technology is preferable to specializing in the details too soon, especially considering how quickly the technology can change.
 
  > "A common mistake made by new starters is to dive into the weeds... It is easy to quickly get disheartened by a dizzying number of concepts and terminologies. Unless you’re looking to advance blockchain technology itself, you generally don’t need to understand the data structures that underpin a blockchain, or how consensus works between nodes on the network. Instead, think of blockchain as a shared database that can be read from or written to; the system will handle how that data is distributed." ([Lucas, 2020](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext)). 
 
