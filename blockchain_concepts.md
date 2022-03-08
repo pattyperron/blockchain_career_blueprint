@@ -36,11 +36,9 @@ A cryptocurrency is a digital form of currency implemented on a specific instanc
 
 Typically, users "store" their cryptocurrency in a [cryptocurrency wallet](https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet), which is a computer program (e.g. [Metamask](https://decrypt.co/resources/metamask)) or physical device (e.g. [Ledger](https://www.ledger.com/)) designed to securely store the private keys to a user's cryptocurrency (but not the currency itself, which is stored on the blockchain).
 
-### Hyperledger Foundation
+### Hyperledger
 
-TODO!
-
-Hyperledger is a consortium of open-source blockchain projects directly supported by the Hyperledger Foundation, which itself is part of the Linux Foundation. Hyperledger includes various projects including a permissioned blockchain solution (Hyperledger Fabric), a collection of libraries for digital identity management (Hyperledger Indy), and a toolkit for managing credentials(Hyperledger Aries). The Hyperledger Foundation also provides certifications and training to help developers get involved. Hyperledger provides an extensive toolkit to any practitionner wishing to develop an enterprise-grade blockchain solution.
+[Hyperledger](https://www.hyperledger.org/) is a consortium of open-source blockchain projects directly supported by the Hyperledger Foundation, which itself is part of the Linux Foundation. Hyperledger includes various projects including a permissioned blockchain solution (Hyperledger Fabric), a collection of libraries for digital identity management (Hyperledger Indy), and a toolkit for managing credentials(Hyperledger Aries). The Hyperledger Foundation also provides [certifications and training](https://www.hyperledger.org/learn/training) to help developers get involved. Hyperledger provides an extensive toolkit to any practitionner wishing to develop an enterprise-grade blockchain solution.
 S
 ### Distributed Ledger Technology (DLT)
 Distributed Ledger Technology is an umbrella term for "technological infrastructure and protocols that allows simultaneous access, validation, and record updating in an immutable manner across a network that's spread across multiple entities or locations."([Difference Blockchain and DLT, 2018](https://marcopolonetwork.com/articles/distributed-ledger-technology)) Though often used interchangeably, Blockchain is just one implementation of DLT.
