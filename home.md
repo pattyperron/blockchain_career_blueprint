@@ -36,7 +36,7 @@ The "What is Blockchain" section will provide readers with a brief introduction 
 ---
 ### Disclaimer:
 
-***This guide is for infromation purposes only does NOT represent investment, or financial advice in any form.*** The creator and contributors of this guide are not attorneys, career coaches, accountants, or financial advisors, nor are they making themselves out to be. The creator and maintainers are not profiting financially from this resource in any way.  
+***This guide is for infromational purposes only and it does NOT represent investment or financial advice in any form.*** The creator and contributors of this guide are not attorneys, career coaches, accountants, or financial advisors, nor are they making themselves out to be. The creator and maintainers are not profiting financially from this resource in any way.  
 
 This guide is a free and informal educational resource created as a deliverable for the TIMG5201 university course at Carleton University in Ottawa, Canada. It is designed to help practitioners navigate free and publicly available resources to learn more about blockchain technology in support of their career ambitions. 
 
