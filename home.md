@@ -1,10 +1,8 @@
 ![](https://www.sap.com/dam/application/imagelibrary/photos/287000/287437.jpg/_jcr_content/renditions/287437_homepage_3840_1200.jpg.adapt.1920_522.true.false.false.false.jpg/1629157434919.jpg)
 
-# Blockchain Career Blueprint v1
+# Blockchain Career Blueprint
 
 ***The Blockchain Career Blueprint is a learning resource for practitioners wishing to transition into a career working with Blockchain or to learn how to gain a familiarity with the technology so they can integrate it into their existing fields.***
-
-## Note: Welcome TIM students from the Artifact 1 showcase! This resource is a work in progress and your feedback is very valuable. If you would like to contribute to making this resource better, please fill out the survey at the link provided in the Zoom breakout room.
 
 # Home
 
@@ -12,11 +10,9 @@
 
 ### [**Blockchain Careers**](blockchain_careers.md)
 
-### [**Blockchain Concepts**](blockchain_concepts.md)
+### [**Blockchain Fundamentals**](blockchain_concepts.md)
 
-### [**Learning Resources**](blockchain_learning.md)
-
-### **Getting Involved (Under Development)**
+### [**Learning and Getting Involved**](blockchain_learning.md)
 
 ### [**References**](references.md)
 

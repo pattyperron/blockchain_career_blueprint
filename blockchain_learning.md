@@ -40,6 +40,13 @@ A 20+ hour online course designed to teach developers how to build their own dis
 
 **Recommended to:** Practitioners with programming experience interested in learning how to program their own blockchain applications and smart contracts.
 
+
+### [CryptoZombies](https://cryptozombies.io/)
+
+A free online and interactive course that teaches users how to build smart contracts with Ethereum and Solidity. Also introduces concepts like DAOs and Oracles.
+
+**Recommended to:** Practitioners with programming experience interested in learning how to program their own blockchain applications and smart contracts.
+
 ## Literature
 
 ### [Bitcoin: A peer-to-peer electronic cash system (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
@@ -86,6 +93,19 @@ The following are excellent places to learn to program:
 - [Codecademy](https://www.codecademy.com/)
 
 **Recommended to:** Practitioners wishing to learn the programming skills they'll need for a technical blockchain role.
+
+
+## Getting Involved
+
+Smart Contract tools to Learn:
+
+Ganache/Truffle
+Tools to use:
+OpenZeplin
+Oyente
+Fsolidm
+
+This section is under construction
 
 ----
 
