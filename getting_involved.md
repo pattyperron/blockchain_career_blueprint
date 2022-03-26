@@ -6,11 +6,6 @@
 
 # Getting Involved
 
-Tools to use:
-OpenZeplin
-Oyente
-Fsolidm
-
 This section is under construction
 
 ----
