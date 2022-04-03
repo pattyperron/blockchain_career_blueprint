@@ -17,20 +17,19 @@ Blockchain, like the internet, is just a new form of technology. While many jobs
 - Many remote and/or cross-border opportunities
 
 ### Why NOT pursue a career working with blockchain?
-- Most jobs are in startups, which provide less career security.
-- Blockchain often operates in an undefined regulatory space for many fields; Incoming regulation can cause disruption.
-- Many existing roles are demanding and have a high turnover.
-- Mistakes in a blockchain system are immutable and can cost lives and livelihoods.
+- Most jobs are in startups, which are often demanding and provide less career security and stability than positions at established firms.
+- Blockchain often operates in an undefined regulatory space for many fields; Incoming regulation can threaten the business models of Blockchain startups.
+- Mistakes in a blockchain system are immutable and can have severe consequences. For example, [one famous hack](https://www.gemini.com/cryptopedia/the-dao-hack-makerdao) cost $50 million worth of cryptocurrency to be stolen. Since smart contracts often handle substantial sums of value, a bug that results in a hack or error can cost millions of dollars and financial futures to be lost. Operating in this high stakes envrionment may not be for everyone.
 
 # Career Roles
 
-According to ["How to start a career in Blockchain"](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext), an article from IBM's Blockchain Enablement Lead, there are three categories of roles in this field. These categories are not meant to be mutually exclusive but to provide a framework to understand the types of activities that different positions are focused on. 
+According to ["How to start a career in Blockchain"](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext), an article from IBM's Blockchain Enablement Lead, there are three categories of roles in this field. These categories are not meant to be mutually exclusive but to provide a framework to understand the types of activities that different positions are focused on.
 
 ### Business Roles: *Focus on what blockchain is used for*
 
 The first step to taking advantage of Blockchain technology is to identify a valid use case. Business roles typically focus on identifying valid value propositions built upon blockchain, and can therefore come from a diverse variety of industry backgrounds. There are many opportunities available to individuals "with deep industry knowledge, who understand end-to-end business processes and have an eye for identifying inefficiencies" ([Lucas, 2020](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext)). 
 
-Potential careers in this space include *Business Analyst*, *Entrepreneur*, and *Researcher*.
+Potential careers in this space include *Business Analyst*, *Entrepreneur*, *Researcher*, *Blockchain Community Developer*, and *Blockchain Media Coordinator* 
 
 ### Technical Roles: *Focus on how to build a blockchain system*
 
@@ -43,6 +42,7 @@ Potential careers in this space include *Distributed Application(DApp) Developer
 Architecture roles are a collection of roles sitting in between technical and business that "allow a blockchain solution to provide utility for an organisation" ([Lucas, 2020](https://academic.oup.com/itnow/article-abstract/62/4/20/6047516?redirectedFrom=fulltext)). Practitioners in this space must balance an understanding of intricate implementation details along with big-picture implications of how the product is designed. 
 
 Potential careers in this space include *System Architect* and *Product Manager*.
+
 
 ## What role is right for you?
 
@@ -118,7 +118,7 @@ The following section describes the key ideas derived from an analysis of 317 st
 | Understanding and applying NFTs |X|X|X|
 | Strong software development skills, often in open-source projects | |X|X|
 | Engagement with online communities  |X|X|X|
-| Software development with golang and solidity  |X |X|X|
+| Software development with golang and solidity  | |X|X|
 | Understanding continuous integration and system econonomic |X|X| |
 | Experience working with cloud infrastructure | |X|X|
 | Strong presence developing projects on Github | |X|X|

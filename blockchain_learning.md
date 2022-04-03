@@ -97,16 +97,30 @@ The following are excellent places to learn to program:
 
 ## Getting Involved
 
-Smart Contract tools to Learn:
+Getting involved means developing the skills to work with blockchain by working with projects that will be useful in the Blockchain Space. Once practitoners have followed up on the recommended learning resources and have a basic understanding of how to work with the technology, they can start to participate. They should not expect to know all there is to know before starting to participate, but that they will be learning through their participation. One of the best ways to participate is to find a blockchain application or project that will keep them interested and use it as a learning vehicle to learn more about the technology and to interact with others in the ecosystem. 
 
-Ganache/Truffle
-Tools to use:
-OpenZeplin
-Oyente
-Fsolidm
+There are two major ecosystems that were identifed as places for students to participate: The Hyperledger project and Ethereum. Below are activites that can be done to better participate in each of these communities.
 
-This section is under construction
+### Hyperledger
+- [Take a hyperledger course to learn how to participate](https://www.hyperledger.org/learn/training)
 
+- [Attend a Hyperledger Virtual Event](https://www.hyperledger.org/events)
+
+- [Join the discussion on the Hyperledger Discord group](https://discord.com/invite/hyperledger)
+
+- [Join a Hyperledger Meetup group to meet others interested in this space,](https://www.meetup.com/pro/hyperledger/) [or join the Ottawa Group](https://www.meetup.com/Hyperledger-Ottawa/)
+
+- [Build your own Distributed Appliaction using the Hyperledger Fabric platform](https://hyperledger-fabric.readthedocs.io/en/release-2.2/getting_started.html)
+
+### Ethereum
+
+- [Join the community](https://ethereum.org/en/community/get-involved/)
+
+- [Attend an Ethereum Developer Event/Conference](https://ethereum.org/en/community/events/)
+
+- [Join the discussion on the Ethereum Discord group](https://discord.com/invite/CetY6Y4)
+
+- [Build your own Distributed Application using the Solidity and Ethereum](https://docs.soliditylang.org/en/v0.8.13/l)
 ----
 
 [**Home**](home.md)

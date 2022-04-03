@@ -36,6 +36,11 @@ By contrast, a permissioned/public blockchain is one where only certain particip
 
 Practitioners should understand the requirements of their proposed blockchain solution to best decide whether a public or private blockchain is best.
 
+### Interoperabilitiy
+
+[Interoperability](https://arxiv.org/abs/2005.14282) refers to 
+refers to "the ability of different blockchain networks to exchange and leverage data between one another and to move unique types of digital assets between the networks’ respective blockchains" ([Cryptopedia, 2021](https://www.gemini.com/cryptopedia/why-is-interoperability-important-for-blockchain#section-benefits-of-blockchain-interoperability)). Blockchains can run into scaling issues as more nodes and users interact with the networ, which can result in higher transaction prices and slower transaction speeds. One known solution for this is the use of [sidechain](https://komodoplatform.com/en/academy/blockchain-sidechain/), an additional blockchain network that connects to a main network. Using side chains can not only help with scaling, but with security. A blockchain system can have a public blockchain that interfaces with a private or permissionned sidechain. Practioners should be aware that their blockchain solution will likely go beyond a single blockchain and that it will likely need to interface with other blockchain technologies.
+
 ### Oracles
 
 Smart contracts need access to reliable information if they are to behave properly. Oracles are "third-party services that provide smart contracts with external information" that "serve as bridges between blockchains and the outside world" ([Blockchain Oracles Explained, 2022](https://academy.binance.com/en/articles/blockchain-oracles-explained)).
@@ -57,10 +62,6 @@ The concept of a DAO is very new and therefore they have an unclear legal status
 A [Non-Fungible Token(NFT)](https://www.forbes.com/advisor/investing/nft-non-fungible-token/) is an entity stored on the blockchain that represents ownership of a specific digital or real-world asset. Built upon the same technology as cryptocurrencies, NFTs can interact with smart contracts and therefore give developers the ability to create their own dApps that autonomously interact with or transfer NFTs to participants depending on various conditions. For example, an exclusive online club can manage its membership via NFTs. A club can create and distribute an initial number of memberships at a specific price. If club membership has become more exclusive over time and a member is no longer interested, they can sell their membership to another new member. Using smart contracts programmed into the NFT, the club can include specific requirements for the new owner before the sale takes place and can even program in a small fee every time the membership is resold. NFTs are already very popular for the ownership of digital art and are starting to see adoption in the form of [event ticketing](https://www.leewayhertz.com/how-nft-ticketing-works/).
 
 NFTs give more control to individuals over the ownership of their digital content, and they are novel in that they can represent a digital form of scarcity in a world where most digital assets like pictures, videos, and text can be copied repeatedly for little cost. NFTs are already popular in the art world, and practitioners should be aware of the potential for this technology to be integrated into various types of applications such as ticketing, gaming, and other industries yet to find a use case for it.
-
-### Interoperabilitiy
-
-Blokchains can run into scaling issues as more nodes and users interact with the network. The result can be higher transaction prices and slower transaction speeds. One known solution for this is the use of side-chain. Interoperability refers to a blockchain's ability to interface with other blockchains of the same type or of different types. Using side chains can not only help with scaling, but with security. A blockchain system can have a open blokchain interface with a private or permissionned blockchain. Practioners should be aware that their blokchain solution will likely go beyond a single blockchain and that it will likely need to interface with other blockchain technologies.
 
 ## Popular Technologies
 

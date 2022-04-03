@@ -8,13 +8,23 @@
 
 ### [**What is Blockchain**](what_is_blockchain.md)
 
+This section provides a brief introduction to what exactly blockchain is and why it's important.
+
 ### [**Blockchain Careers**](blockchain_careers.md)
+
+This section provides an overview of avialable careers in the blockchain space based on literature and a topic modeling analysis of Blockchain job postings.
 
 ### [**Blockchain Fundamentals**](blockchain_concepts.md)
 
+This section provides consise summaries of several Blockchain concepts and technologies that every practitioners should be aware of, along with links to resources to learn more about them.
+
 ### [**Learning and Getting Involved**](blockchain_learning.md)
 
-### [**References**](references.md)
+----
+
+### [Process Documentation](process.md)
+
+### [References](references.md)
 
 ----
 ### About This Resource
@@ -23,14 +33,17 @@ This guide was developed for students in the TIM Program at Carleton University 
 
 There are many excellent resources to help someone get started with this technology. Rather than reiterate what is described in these resources, this guide will serve as a map to help its users find resources that will be most helpful to them.
 
+
 ### How to Use This Resource
 
 This resource is designed to serve as a map rather than a database. High-level explanations are provided for various topics along with links to where to seek more information on the topic. Users are encouraged to focus on attaining a high-level understanding of all the topics in this guide and to proceed into more detail on the topics that are of value to their career goals.
 	
 The "What is Blockchain" section will provide readers with a brief introduction to the technology. The "Blockchain Careers" section then introduces the present career landscape in the Blockchain space, including various career roles and desired skills. Users of the guide are encouraged to self-assess their backgrounds and career ambitions to help pick a role that suits them best and use that role as a guide when accessing the information described in the remaining sections of the guide.
 
+This resources currently does has bias towards more techincal roles. This is because an analysis of available positions in the Blockchain space as of Winter 2022 shows that technical positions are the most common in this space. Although this guide will provide useful information for practitioners of all backgrounds, some of the content and recommendations will be most relevent to those willing to develop their own technical blockchain projects.
+
 ---
-### Disclaimer:
+### Disclaimer
 
 ***This guide is for infromational purposes only and it does NOT represent investment or financial advice in any form.*** The creator and contributors of this guide are not attorneys, career coaches, accountants, or financial advisors, nor are they making themselves out to be. The creator and maintainers are not profiting financially from this resource in any way.  
 
