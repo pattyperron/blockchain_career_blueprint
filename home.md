@@ -20,6 +20,8 @@ This section provides consise summaries of several Blockchain concepts and techn
 
 ### [**Learning and Getting Involved**](blockchain_learning.md)
 
+This section provides resources to develop Blockchain skills and communities to get involved with.
+
 ----
 
 ### [Process Documentation](process.md)
