@@ -85,6 +85,6 @@ There are now many blockchain solutions following Ethereum that support the crea
 
 ----
 
-[**Next: Learning Resources**](blockchain_learning.md)
+[**Next: Learning and Getting Involved**](blockchain_learning.md)
 
 [**Home**](home.md)
